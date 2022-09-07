@@ -1,0 +1,11 @@
+ <!-- All Javascripts -->
+ <script src="{{ asset('news/js/jquery-3.6.0.min.js') }}"></script>
+ <script src="{{ asset('news/js/bootstrap.min.js') }}"></script>
+ <script src="{{ asset('news/js/jquery-ui.js') }}"></script>
+ <script src="{{ asset('news/js/jquery.magnific-popup.min.j') }}s"></script>
+ <script src="{{ asset('news/js/owl.carousel.min.js') }}"></script>
+ <script src="{{ asset('news/js/wow.min.js') }}"></script>
+ <script src="{{ asset('news/js/select2.full.js') }}"></script>
+ <script src="{{ asset('news/js/sweetalert2.min.js') }}"></script>
+ <script src="{{ asset('news/js/jquery.waypoints.min.js') }}"></script>
+ <script src="{{ asset('news/js/acmeticker.js') }}"></script>
